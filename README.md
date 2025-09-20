@@ -27,12 +27,12 @@ A full-featured microblogging web application built with Flask, similar to Twitt
 ### Explore Page
 
 ![Explore](images/5.png)
-*Discover posts from all users on the platform*
+*Edit profile information including username and about section*
 
 ### Profile Editing
 
 ![Edit Profile](images/6.png)
-*Edit profile information including username and about section*
+*Follow other Users*
 
 ## 🌟 Features
 
